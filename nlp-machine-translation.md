@@ -72,12 +72,12 @@
    1. [Bleu: a Method for Automatic Evaluation of Machine Translation](https://www.aclweb.org/anthology/P02-1040/) (ACL 2002) Bilingual evaluation understudy. Computed based on n-gram precision (how many of the n-grams in MT are present in the reference translation) and brevity penalty.
    1. [METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments](https://www.aclweb.org/anthology/W05-0909/) (ACL 2005)
    1. [A Study of Translation Edit Rate with Targeted Human Annotation](https://www.cs.umd.edu/~snover/pub/amta06/ter_amta.pdf) (AMTA 2006) Human-targeted TER
+   1. [chrF: character n-gram F-score for automatic MT evaluation](https://www.aclweb.org/anthology/W15-3049/) (WMT 2015)
 ### Quality estimation
    1. [Multi-level Translation Quality Prediction with QUEST++](https://www.aclweb.org/anthology/P15-4020/) (ACL-IJCNLP 2015)
    1. [Alibaba Submission for WMT18 Quality Estimation Task](https://www.aclweb.org/anthology/W18-6465.pdf) (WMT 2018 QE Task)
    1. [“Bilingual Expert” Can Find Translation Errors](https://arxiv.org/pdf/1807.09433.pdf) (AAAI 2019) Alibaba
    1. [SOURCE: SOURce-Conditional Elmo-style Model for Machine Translation Quality Estimation](http://www.statmt.org/wmt19/pdf/54/WMT11.pdf) (WMT 2019 QE Task)
    1. [Practical Perspectives on Quality Estimation for Machine Translation](https://arxiv.org/abs/2005.03519)
-   1. [chrF: character n-gram F-score for automatic MT evaluation](https://www.aclweb.org/anthology/W15-3049/) (WMT 2015)
 
 
