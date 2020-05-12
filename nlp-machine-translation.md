@@ -19,6 +19,7 @@
    1. [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://www.aclweb.org/anthology/Q17-1024/) (TACL 2017)
 1. Transformer: Use multi-head self-attention in encoder and decoder to replace RNN/CNN. Transformer is more parallelizable and thus requires less training time. 
    1. [Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) (NIPS 2017)
+   1. [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) tutorial
 1. Amazon's NMT
    1. [The Sockeye Neural Machine Translation Toolkit at AMTA 2018](https://www.aclweb.org/anthology/W18-1820/) (AMTA 2018) Open source NMT with Gluon API of MXNet
    1. [Fast Lexically Constrained Decoding with Dynamic Beam Allocation for Neural Machine Translation](https://www.aclweb.org/anthology/N18-1119/) (NAACL 2018) custom terminology
