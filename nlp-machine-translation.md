@@ -78,5 +78,6 @@
    1. [“Bilingual Expert” Can Find Translation Errors](https://arxiv.org/pdf/1807.09433.pdf) (AAAI 2019) Alibaba
    1. [SOURCE: SOURce-Conditional Elmo-style Model for Machine Translation Quality Estimation](http://www.statmt.org/wmt19/pdf/54/WMT11.pdf) (WMT 2019 QE Task)
    1. [Practical Perspectives on Quality Estimation for Machine Translation](https://arxiv.org/abs/2005.03519)
+   1. [chrF: character n-gram F-score for automatic MT evaluation](https://www.aclweb.org/anthology/W15-3049/) (WMT 2015)
 
 
